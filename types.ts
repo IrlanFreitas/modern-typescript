@@ -1,6 +1,7 @@
 //* String
 const myName: string = "Yrlan";
-const myAge: number = 29;
+const myCompany: string = "hirlab";
+const myAge: number = 30;
 const stringInterpolation: string = `Meu nome é ${myName} e minha idade é ${myAge}`;
 console.log("\n");
 console.log("String interpolation");
@@ -8,6 +9,7 @@ console.log(stringInterpolation);
 console.log("\n");
 
 //* Numbers
+let formatted: number = 100_100_000.1;
 let decimal: number = 34.1;
 let hex: number = 0xf00d;
 let binary: number = 0b1010;
@@ -31,7 +33,7 @@ console.log(list2);
 console.log("\n");
 
 // * Tupla
-// ? Parece mais um array de duas posições
+// ? É literalmente um array de duas posições
 let tupla: [string, number] = ["Rua Teste", 21];
 console.log("Tupla");
 console.log(tupla);

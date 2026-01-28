@@ -1,1 +1,1 @@
-{"root":["./index.ts"],"version":"5.7.3"}
+{"root":["./getterandsetter.ts","./index.ts","./interfaces.ts","./poo.ts","./types.ts","./advancedtypes/omit.ts","./advancedtypes/omitandpick.ts","./advancedtypes/partial.ts","./advancedtypes/pick.ts"],"version":"5.9.3"}
